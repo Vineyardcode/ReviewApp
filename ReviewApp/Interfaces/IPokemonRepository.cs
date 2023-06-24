@@ -1,4 +1,6 @@
 ﻿using ReviewApp.Models;
+using ReviewApp.Dto;
+
 
 namespace ReviewApp.Interfaces
 {
